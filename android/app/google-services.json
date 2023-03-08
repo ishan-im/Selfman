@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "685783761547",
+    "project_id": "selfura-86221",
+    "storage_bucket": "selfura-86221.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685783761547:android:7b72435596d25aed3b8a8e",
+        "android_client_info": {
+          "package_name": "com.selfman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685783761547-0kab1pns8h0v6ej5p81ahuqa9s555bup.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.selfman",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "685783761547-oe0riffbh4dbh2fk6suip3fgc6bntkut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd316EUz49dw0kt0uOJkOtn0OsYemGF1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685783761547-oe0riffbh4dbh2fk6suip3fgc6bntkut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
